@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+body{
+    background: #000;
+}
+
+#home-btn {
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+    cursor: pointer;
+ 
+}
+#core-btn {
+    font-family: 'Bree Serif', serif;
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+   cursor: pointer;
+}
+#digi-btn {
+    font-family: 'Bree Serif', serif;
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+   cursor: pointer;
+}
+#mi-btn {
+    font-family: 'Bree Serif', serif;
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+   cursor: pointer;
+}
+#v-btn {
+    font-family: 'Bree Serif', serif;
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+   cursor: pointer;
+}
+#a-btn {
+    font-family: 'Bree Serif', serif;
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+   cursor: pointer;
+}
+#c-btn {
+    font-family: 'Bree Serif', serif;
+    padding: 3vw 2.2vw;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.3vw;
+    position: fixed;
+    text-transform: uppercase;
+    font-family: futura;
+    border-radius: 50%;
+    opacity: 0;
+    scale: 0;
+    z-index: 1;
+   cursor: pointer;
+}
